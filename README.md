@@ -1,0 +1,28 @@
+Logman is a Windows command-line tool for managing performance logs and trace sessions, used for system diagnostics, monitoring, and troubleshooting by collecting data on system performance and application behavior.
+
+The script stops specified Logman sessions and logs the results.
+
+english:
+
+To install Python (I personally recommend version 3.0.1 or higher):
+
+1. Install Python from the official website (https://www.python.org/downloads/).
+
+2. Open Command Prompt (cmd) and navigate to the directory where the `delogger.py` file is located by using the following command:
+   cd "path_to_directory"
+
+3. Finally, run the script by executing:
+   python delogger.py
+
+
+
+русский
+Чтобы установить Python (я рекомендую версию 3.0.1 и выше):
+
+1. Установите Python с официального сайта (https://www.python.org/downloads/).
+
+2. Откройте командную строку (cmd) и перейдите в директорию, где находится файл `delogger.py`, с помощью следующей команды:
+   cd "путь_к_директории"
+
+3. Наконец, выполните скрипт, выполнив команду:
+   python delogger.py
